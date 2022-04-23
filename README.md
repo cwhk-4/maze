@@ -1,1 +1,1 @@
-# ppap_maze
+# maze
